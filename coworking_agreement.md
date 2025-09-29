@@ -28,5 +28,5 @@ Understand someone's code.
 Let's have fun and try to enjoy the process. 
 
 ## Signatures
-Tatiana Didenko, 
+Tatiana Didenko, Trang (Alice)Le
 Date: 09/29/2025
